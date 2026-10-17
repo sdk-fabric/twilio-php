@@ -1,0 +1,6 @@
+{
+  "name": "sdkfabric/twilio",
+  "description": "Twilio PHP SDK managed by SDK Fabric",
+  "namespace": "SdkFabric\\Twilio",
+  "website": "https://sdk-fabric.org"
+}
