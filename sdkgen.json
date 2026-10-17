@@ -1,0 +1,9 @@
+{
+  "type": "client-php",
+  "require": {
+    "sdkfabric/twilio": {
+      "target": "./src",
+      "namespace": "SdkFabric\\Twilio"
+    }
+  }
+}
